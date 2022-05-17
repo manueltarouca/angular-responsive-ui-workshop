@@ -152,3 +152,4 @@ Responsive layout using Angular's API
 
 [1]. https://github.com/angular/flex-layout/wiki/Declarative-API-Overview
 [2]. https://github.com/angular/flex-layout/wiki/Responsive-API
+[3]- https://github.com/manueltarouca/angular-responsive-ui-workshop
